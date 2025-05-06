@@ -1,1 +1,1 @@
-# PumaSPNKr.github.io
+# PumaSPNKr.github.io/RockPaperScissors
