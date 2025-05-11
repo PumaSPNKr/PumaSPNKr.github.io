@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+div {
+    /* border: 4px white solid; */
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 80px;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    height: 960px;
+    width: 960px;
+    justify-self: center;
+    margin: 60px 0 0 0;
+}
+
+#resetButton {
+    padding: 6px 18px 6px 18px;
+    font-size: 18px;
+}
+
+#buttonContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
